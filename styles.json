@@ -1,0 +1,74 @@
+{
+  "tintin": {
+    "name": "Tintin",
+    "prompt": "Reimagine this frame as a traditional 2D comic panel in the Tintin / ligne claire style: clean confident ink lines, flat colors, simple shading, and clear readable shapes. Keep the same characters and action from the input. Preserve each character’s silhouette, species, distinctive features, and core color palette. You may adjust camera angle and composition for storytelling, but keep identities recognizable and consistent."
+  },
+  "anime": {
+    "name": "Anime",
+    "prompt": "Reimagine this frame as a high-quality anime key visual. Redraw from scratch with strong stylization, dynamic composition, expressive character acting, and cinematic lighting (soft gradients, rim light, dramatic shadows). Keep the same characters and overall moment, but you may change camera angle and framing to make it more exciting. Preserve each character’s color palette and distinctive silhouette so they stay recognizable."
+  },
+  "shonen": {
+    "name": "Shōnen Jump",
+    "prompt": "Reimagine this frame as a dynamic shōnen manga panel: bold confident ink lines, dramatic foreshortening, strong silhouettes, speed/impact lines when appropriate, and punchy cel shading. Keep the same characters and action from the input, but completely reimagine the framing and camera angle for dramatic storytelling. Preserve each character’s species, distinctive features, and core color palette."
+  },
+  "marvel": {
+    "name": "Marvel",
+    "prompt": "Reimagine this frame as a classic Marvel superhero comic panel (1960s–1990s style). Bold black ink outlines, clean dynamic anatomy, expressive faces, dramatic foreshortening, halftone dot shading, flat but vibrant colors, high-contrast lighting, and comic-style motion lines. Keep the same action and characters from the input, preserving each character’s color palette and distinctive features. If an animal appears, reinterpret it as an animal-themed superhero or villain while keeping the same silhouette and main colors. Cinematic comic framing is allowed, but keep the story beat consistent."
+  },
+  "noir": {
+    "name": "Film Noir",
+    "prompt": "Reimagine this frame as a cinematic film noir scene (1940s–1950s). Mostly monochrome black-and-white with subtle grayscale tones. High-contrast chiaroscuro lighting, deep shadows, hard-edged highlights, dramatic silhouettes, and moody atmosphere. Add noir elements where appropriate: cigarette smoke or fog, rain-slick streets, venetian-blind shadows, a lone streetlight, reflections in puddles, dim back-room interiors. Keep the same characters and action from the input, preserving each character’s silhouette and distinctive features. You may reinterpret the camera angle for cinematic storytelling."
+  },
+  "vaporwave": {
+    "name": "Vaporwave",
+    "prompt": "Reimagine this frame as a vaporwave / 1980s Trapper Keeper–style illustration. Bold neon gradients (pink, purple, cyan, teal), glossy airbrushed shading, geometric shapes, grid horizons, retro sun disks, and synthwave lighting. Keep the same characters and action from the input, preserving each character’s silhouette and core color palette, but stylize them into a retro-futuristic aesthetic. Optionally add some vaporwave elements: chrome reflections, palm trees, VHS scanlines, cassette-tape motifs, stickers, and playful 80s graphic patterns (but using these sparingly, not every time). High contrast, clean shapes, poster-like composition."
+  },
+  "mario": {
+    "name": "Super Mario Bros.",
+    "prompt": "Reimagine this frame as a retro late-1980s 8-bit side-scrolling platformer screenshot shown on a CRT television. Strict 2D side-view camera, low-resolution chunky pixel art, sprite-scale characters (~32x32 to 48x48), minimal detail, bold pixel clusters, and clean pixel outlines with only one highlight and one shadow. Design the main character sprites as if they come from a single reusable sprite sheet: keep the same head shape, ear shape, face layout, and body proportions, only changing pose (run/jump/idle) while preserving the original character color palette. Convert the environment into grid-aligned tiles: brick platforms, item blocks, pipes, coin rows, repeating ground tiles, and simple parallax hills/clouds. Add classic motion cues like jump arcs, dust puffs, and coin sparkles. Add subtle CRT artifacts: slight bloom, mild color bleed, faint scanlines, and soft edge glow so it feels like a photographed TV screen, not sharp modern HD pixel art."
+  },
+  "felt": {
+    "name": "Felt Stop-Motion",
+    "prompt": "Reimagine this frame as a handcrafted stop-motion scene made from felt, yarn, and fabric (miniature diorama). Everything should look physically built: stitched seams, fuzzy felt texture, button-like details, soft shadows, and shallow depth of field from a real camera filming a tabletop set. Keep the same characters and action from the input, preserving each character’s color palette and silhouette, but redesign them as adorable felt puppets. Background props should look handmade from craft materials (cardboard, foam, fabric, tiny lights). Cinematic framing allowed."
+  },
+  "glass": {
+    "name": "Stained Glass",
+    "prompt": "Reimagine this frame as a real stained-glass cathedral window viewed from inside a gothic church. Use thick black lead cames, large glass segments, jewel tones, and strong sunlight backlighting with glow and light spill. Add authentic glass imperfections (ripples, bubbles, uneven thickness) and subtle painted shading (grisaille) for facial details. Compose the scene like a sacred window with stone tracery / mullions and an ornamental border, not a poster. Preserve the characters and action by silhouette and color palette, but render them in a flat iconic stained-glass style."
+  },
+  "egypt": {
+    "name": "Egyptian Relief",
+    "prompt": "Reimagine this moment as a complete ancient Egyptian wall relief / tomb painting scene on sandstone, like a carved-and-painted mural panel. Retell the story as a wide frieze composition with full-body figures shown head-to-toe, arranged in a row, in classic Egyptian side-profile poses (eyes and shoulders stylized), with clear symbolic gestures. Do NOT preserve the original camera framing. Avoid closeups, cropped faces, or modern cinematic angles. Use flat stylized figures, crisp outlines, simplified anatomy, and painted mineral pigments (ochre, terracotta, lapis blue, muted green, charcoal). Preserve the same characters and action, keeping their silhouettes and color palette recognizable, but translated into Egyptian iconography. Include hieroglyphic border bands, decorative symbols, and background motifs (plants, animals, sun disk, reeds, waves) to fill space like a real wall panel. Texture should look like carved stone + worn paint, with subtle chisel marks and age."
+  },
+  "kawaii": {
+    "name": "Kawaii Sticker Sheet",
+    "prompt": "Reimagine this frame as a kawaii sticker-sheet illustration. Super cute simplified characters, rounded shapes, pastel colors, thick clean outlines, and lots of small decorative stickers (stars, bows, sparkles, fruit, hearts). Preserve the same characters and action from the input, but make everything adorable and friendly. Light pastel background."
+  },
+  "pony": {
+    "name": "My Little Pony",
+    "prompt": "Reimagine this frame in a bright, cheerful children's cartoon style inspired by My Little Pony. Soft gradients, clean outlines, big expressive eyes, vibrant colors, and a wholesome playful mood. Keep the same characters and action from the input, preserving their color palette and recognizable features, but stylize them into friendly cartoon characters."
+  },
+  "sanrio": {
+    "name": "Sanrio",
+    "prompt": "Reimagine this frame in a cute Sanrio-inspired style: minimal clean lines, pastel palette, simple shapes, tiny dot eyes, gentle expressions, and lots of charm. Keep the same characters and action from the input while preserving their color palette. Cozy, sweet, and wholesome."
+  },
+  "cupcake": {
+    "name": "Cupcake Fantasy",
+    "prompt": "Reimagine this frame as a whimsical candyland fantasy illustration. Bright pastel colors, soft shading, cute character designs, and backgrounds made of sweets (cupcakes, frosting hills, candy canes, sprinkles). Keep the same characters and action from the input, preserving color palette and silhouette."
+  },
+  "pokemon": {
+    "name": "Pokémon",
+    "prompt": "Reimagine this frame as a bright Pokémon-style anime scene. Clean lineart, cel shading, vibrant colors, and a friendly adventurous mood. Keep the same characters and action from the input, preserving each character’s silhouette and color palette. Reinterpret any animals or creatures as Pokémon-like creatures with recognizable traits from the original, and keep them consistent across frames. Backgrounds should feel like a Pokémon world (grassy routes, forests, towns, battle arenas)."
+  },
+  "lichtenstein": {
+    "name": "Roy Lichtenstein",
+    "prompt": "Reimagine this frame as a Roy Lichtenstein–style pop art comic panel. Bold black outlines, flat primary colors, Ben-Day dot shading, simplified shapes, and dramatic comic-book expression. Keep the same characters and action from the input, preserving each character’s silhouette and core color palette, but stylize everything into pop art. Strong graphic composition and exaggerated emotion."
+  },
+  "picasso": {
+    "name": "Picasso",
+    "prompt": "Reimagine this frame as a Picasso-inspired Cubist painting. Break the scene into bold geometric planes and overlapping facets, with slightly misaligned perspectives and simplified angular forms. Use bright solid colors with strong contrast and painterly texture. Keep the same characters and action from the input, preserving each character’s core color palette and recognizable silhouette, but reinterpret faces and bodies with Cubist distortion."
+  },
+  "lego": {
+    "name": "Lego",
+    "prompt": "Reimagine this frame as a realistic LEGO set model (like an official retail LEGO product). Keep the same characters and action from the input, but build everything out of LEGO pieces. Use a moderate number of bricks (small-to-medium set), with visible studs and clear brick seams. Use appropriate specialty pieces for curves and diagonals, but do not create a massive ultra-detailed sculpture. Frame it as a close-up product photo of the LEGO build on a tabletop, so the bricks look large and readable. Realistic lighting and plastic texture."
+  }
+}
